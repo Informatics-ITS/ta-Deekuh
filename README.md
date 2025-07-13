@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: Andhika Lingga Mariano
-**NRP**: 5025211161
+**Nama Mahasiswa**: Andhika Lingga Mariano  
+**NRP**: 5025211161  
 **Judul TA**: Pengembangan Gim Berbasis Realitas Virtual untuk Edukasi Sistem Isyarat Bahasa Indonesia  
-**Dosen Pembimbing**: Hadziq Fabroyir, S.Kom., Ph.D.
-**Dosen Ko-pembimbing**: Imam Kuswardayan, S.Kom., MT.
+**Dosen Pembimbing**: Hadziq Fabroyir, S.Kom., Ph.D.  
+**Dosen Ko-pembimbing**: Imam Kuswardayan, S.Kom., MT.  
 
 ---
 
