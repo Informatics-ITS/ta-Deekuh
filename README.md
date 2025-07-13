@@ -1,17 +1,17 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Andhika Lingga Mariano
+**NRP**: 5025211161
+**Judul TA**: Pengembangan Gim Berbasis Realitas Virtual untuk Edukasi Sistem Isyarat Bahasa Indonesia  
+**Dosen Pembimbing**: Hadziq Fabroyir, S.Kom., Ph.D.
+**Dosen Ko-pembimbing**: Imam Kuswardayan, S.Kom., MT.
 
 ---
 
 ## 📺 Demo Aplikasi  
 Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):  
 
-[![Demo Aplikasi](https://i.ytimg.com/vi/zIfRMTxRaIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
+[![Demo Aplikasi](https://i.ytimg.com/vi/zIfRMTxRaIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=6l72Sy1u9zQ)  
 *Klik gambar di atas untuk menonton demo*
 
 ---
